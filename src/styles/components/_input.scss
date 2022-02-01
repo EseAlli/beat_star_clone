@@ -1,0 +1,25 @@
+.subscribe-input{
+    margin: 0 auto;
+    background-color: #282828;
+    padding: 1rem;
+    border-radius: 8px;
+    width: 100%;    
+}
+.subscribe-input::placeholder{
+    color: #707070;
+    text-align: center;
+}
+.input-group{
+    position: relative;
+}
+
+.input-icon {
+    padding: 10px;
+    min-width: 40px;
+    color:#707070;
+    position: absolute;
+    top: 15%;
+    left: 4%;
+    font-size: 23px;
+}
+
